@@ -9,4 +9,3 @@ Recipes used:
 1. Frozen lemon souffle
 2. Berry Granola Parfait
 3. Grilled salmon sushi rice bowl
-4. Spicy sauteed kale with lemon
